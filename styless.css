@@ -1,0 +1,116 @@
+body {
+  background-color: #FD5D5D;
+  text-align: center;
+  margin-top: 50px;
+}
+.top_container{
+  display: block;
+}
+h1 {
+  font-size: 4.5rem;
+  font-style: oblique;
+  font-family: 'Oswald' ,sans-serif;
+  margin-bottom: 0;
+  display: inline-block;
+}
+
+.status{
+  font-size:2rem;
+  font-style:italic;
+  font-family: "Montserrat",sans-serif;
+  margin-top: 0;
+}
+.gif {
+  position:absolute;
+  left:290px;
+  top:113px;
+  display: inline-block;
+  height : 125px;
+  width : 125px;
+}
+img{
+  margin: 10 10 10 10;
+  display:inline-block;
+}
+.med_container_1{
+  display:inline;
+}
+.About {
+  display:inline-block;
+  position:relative;
+  bottom:120px;
+}
+
+p {
+  font-size: 25px;
+  font-family: serif;
+}
+.med_container_2{
+  background-color: #C0EDA6;
+  text-decoration: underline;
+  display: block;
+}
+.portfolio{
+  text-align: center;
+  position:relative;
+  top:25px;
+  font-size: 300%;
+  font-weight: bold;
+  font-family: monospace;
+}
+.image2{
+  position:relative;
+  left:330px;
+  bottom:50px;
+}
+
+.Skills{
+  display:inline-block;
+  position:relative;
+  right: 330px;
+  bottom: 300px;
+
+}
+.bottom_container{
+  background-color: #C0EDA6;
+  display: block;
+}
+
+h3 {
+  color:#3A3845;
+  font-size: 25px;
+  font-family: "verdana",monospace;
+
+}
+
+.Certificates{
+  position:relative;
+  bottom:200px;
+}
+
+span {
+    display: inline-block; /* change the display type           */
+    margin: 10px 0;        /* apply the needed vertical margins */
+}
+
+.C1{
+  position:relative;
+  right:175px;
+}
+
+.C2{
+  position:relative;;
+  left:175px;
+}
+
+.image3{
+  height:480px;
+  width:480px;
+  margin : 10 10 10 10;
+}
+
+.image4{
+  height:480px;
+  width:480px;
+  margin : 10 10 10 10;
+}
